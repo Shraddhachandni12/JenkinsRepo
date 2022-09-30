@@ -1,4 +1,4 @@
-
+pipeline {
  tools {
      jdk 'myjava'
      
@@ -51,5 +51,6 @@
             
         }
         
+}
        
     
