@@ -1,4 +1,5 @@
 pipeline {
+    // This is new line added by SJ on 28082023
  tools {
      jdk 'myjava'
      
